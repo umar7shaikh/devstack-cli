@@ -1,0 +1,23 @@
+# Node modules
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# dotenv environment variables
+.env
+
+# Optional: If you're using a dist build (e.g., compiled output)
+dist/
+build/
+
+# Optional: VS Code settings
+.vscode/
